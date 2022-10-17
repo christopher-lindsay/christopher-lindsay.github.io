@@ -10,8 +10,9 @@ I believe outreach is an important part of one’s scientific career. Below is a
 
 <!-- <img class='dog_image' src="./assets/img/Tedx.jpg" alt="Picture with my Dogs."/> -->
 ![Ted-ex](/assets/img/Tedx.JPG)
+<ol>
 TEDx USC talk (March 25th 2022, University of Southern California) <a href="{{ site.tedx }}"> Youtube Link </a>
 </ol>
 
 
-[back](./)
+[back](../)
