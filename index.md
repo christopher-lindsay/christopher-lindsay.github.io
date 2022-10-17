@@ -11,4 +11,6 @@ During my undergrad, I was an observer for the Mount Wilson node of the Birmingh
 
 I was raised on the island of Oahu in Hawai'i, which, due to my proximity to the University of Hawai'i’s Institute for Astronomy, spurred my interest in Astronomy from a young age. I’ve taken multiple trips to Mauna Kea, including for a recent observing run with Keck (see photos). 
 
+Take a look at my outreach and media [Link]({% link /outreach.md %}). 
+
 Feel free to contact me at christopher.lindsay@yale.edu
