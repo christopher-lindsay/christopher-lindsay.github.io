@@ -15,6 +15,3 @@ Take a look at my [Outreach and Media]({{% link ./outreach/ %}}).
 
 Feel free to contact me at christopher.lindsay@yale.edu
 
-
-<!-- [other thing](./outreach.md) -->
-<!-- [image]() -->
