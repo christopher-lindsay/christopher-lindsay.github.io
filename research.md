@@ -19,8 +19,8 @@ Related Papers:
 I am interested in using data from space based photometry missions (Kepler and TESS) to study the oscillation properties of sub-giant stars. Since stellar oscillations are connected to the stellar interior structure, studying these stellar oscillations will lead to a better understanding of low mass star evolution through improved measurements of the sizes of convective stellar cores. 
 
 ### Cluster Red Giants
-I am currently using various ‘peak-bagging’ codes in the literature and under current development to study the oscillation modes of red giant stars in the Kepler clusters: NGC6791 and NGC6819. 
-
-
+I am currently using various ‘peak-bagging’ codes to study the oscillation modes of red giant stars in the Kepler clusters: NGC6791 and NGC6819. 
+![NGCs](/assets/img/NGC6791and6819.png)
+#### image credit NASA/Kepler
 
 [back](../)
