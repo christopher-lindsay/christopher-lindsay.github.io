@@ -14,7 +14,7 @@ I believe outreach is an important part of one’s scientific career. Below is a
 
 <li>TEDx USC talk (March 25th 2022, University of Southern California) <a href="{{ site.tedx }}"> Youtube Link </a></li>
 
-<li>Prospects of a Graduate Degree in Astronomy at Yale (June 10th 2020, Honolulu, Hawaii) <a href="youtube.com/watch?v=8O6VvywkMSc"> Youtube Link </a></li>
+<li>Prospects of a Graduate Degree in Astronomy at Yale (June 10th 2020, Honolulu, Hawaii) <a href="https://youtube.com/watch?v=8O6VvywkMSc"> Youtube Link </a></li>
 
 <li>Keynote Speaker, NOAA “Science at Sea” Day (January 22nd 2016, Honolulu, Hawaii) <a href="https://www.fisheries.noaa.gov/feature-story/science-sea-event-honors-civilian-science-conducted-noaa-fisheries-ships"> News Link </a></li>
 
