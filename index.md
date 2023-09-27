@@ -11,6 +11,8 @@ During my undergrad, I was an observer for the Mount Wilson node of the Birmingh
 
 I was raised on the island of Oahu in Hawai'i, which, due to my proximity to the University of Hawai'i’s Institute for Astronomy, spurred my interest in Astronomy from a young age. I’ve taken multiple trips to Mauna Kea, including a recent observing run with Keck see [photos]({% link pictures.md %}). 
 
+I am also the leader of Yale University's Graduate Student Assembly, a democratically elected body representing graduate students in all departments and programs within Yale's Graduate School of Arts and Sciences. Check out more about our advocacy on [our website](https://gsa.yale.edu).
+
 Take a look at my [Outreach and Media]({% link outreach.md%}). 
 
 Feel free to contact me at christopher.lindsay@yale.edu
